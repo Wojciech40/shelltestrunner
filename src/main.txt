@@ -1,2 +1,3 @@
 Easy, repeatable testing of CLI programs/commands
 # clarify the control flow
+# guard against empty input
